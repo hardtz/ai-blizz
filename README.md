@@ -1,10 +1,19 @@
-# ai-blizz
+# blizz - Virtual Assistant
 ------------------------------------------------------------------------------------------------------------------------------------------
-
-An A.I. developed in Python.
 Consists of a virtual assitant that will be implanted an artificial intelligence posteriorly.
 
-Features that will be implanted;
+## Getting started
+  
+  ### Required libraries
+    pip install wikipedia
+    pip install wolframalpha
+    pip install -U wxPython
+
+  ### Wolframalpha API code
+  - You need to have an account on Wolframalpha to generate an API code
+  - Change app_id value to your generated API code
+
+## Features that will be implanted;
 
   - Voice recognition
   - Search files
